@@ -1,0 +1,18 @@
+Job Responsibilities
+1. Responsible for the architectural design and functional development of the company's core business systems, primarily based on the HyPerf framework.
+2. Optimize the performance and architecture of existing projects, enhancing the system's high concurrency and high availability capabilities.
+3. Participate in business needs analysis and independently complete technical solution design and implementation.
+4. Write high-quality, maintainable code and promote team-wide coding standards and best practices.
+5. Resolve technical challenges encountered during system operation and continuously improve system stability and scalability.
+6. Mentor junior and mid-level engineers, conduct code reviews, and share technical expertise.
+
+Job Requirements
+1. Bachelor's degree or above in a computer science-related major, with 3-5 years of PHP development experience.
+2. Proficient in PHP 7/8, familiar with common design patterns, and possess a solid programming foundation.
+3. Proficient in the HyPerf framework and practical experience with HyPerf-based projects (required).
+4. Familiarity with coroutines, asynchronous programming, and the underlying principles of Swoole/Hyperf, with experience in high-concurrency architecture design.
+5. Proficiency in common middleware such as MySQL/Redis/message queues, and strong database design and optimization skills.
+6. Familiarity with common Linux commands, with experience in containerized deployments such as Docker/Kubernetes preferred.
+7. Excellent teamwork, learning, and problem-solving skills.
+Bonus: Experience with the architecture of large-scale distributed systems, high-concurrency, and high-availability systems. Practical application experience with DDD (Domain-Driven Design) and microservices architecture.
+Resume submission: zcgs2149@gmail.com
